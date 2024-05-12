@@ -198,6 +198,16 @@ select {
     margin-right: 5px;
 }
 
+/* .vermas h4 {
+    color: white;
+    
+} */
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
 /* - - - -  - - - - - - - - - - - - - - - - - - - - -  */
 
 .sidebar {
